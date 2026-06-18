@@ -88,5 +88,5 @@ The following tools and technologies were used in this project:
 
 ## 👩‍💻 Author
 
-* \[Your Name]
+* \[Fathima Wafa K P]
 
